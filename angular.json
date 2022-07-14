@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "kodehash": {
+    "snow": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -108,18 +108,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "kodehash:build"
+            "browserTarget": "snow:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "kodehash:build:production"
+              "browserTarget": "snow:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "kodehash:build"
+            "browserTarget": "snow:build"
           }
         },
         "test": {
@@ -157,11 +157,11 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "kodehash:serve"
+            "devServerTarget": "snow:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "kodehash:serve:production"
+              "devServerTarget": "snow:serve:production"
             }
           }
         },
@@ -211,12 +211,12 @@
           "builder": "@nguniversal/builders:ssr-dev-server",
           "configurations": {
             "development": {
-              "browserTarget": "kodehash:build:development",
-              "serverTarget": "kodehash:server:development"
+              "browserTarget": "snow:build:development",
+              "serverTarget": "snow:server:development"
             },
             "production": {
-              "browserTarget": "kodehash:build:production",
-              "serverTarget": "kodehash:server:production"
+              "browserTarget": "snow:build:production",
+              "serverTarget": "snow:server:production"
             }
           },
           "defaultConfiguration": "development"
@@ -230,12 +230,12 @@
           },
           "configurations": {
             "production": {
-              "browserTarget": "kodehash:build:production",
-              "serverTarget": "kodehash:server:production"
+              "browserTarget": "snow:build:production",
+              "serverTarget": "snow:server:production"
             },
             "development": {
-              "browserTarget": "kodehash:build:development",
-              "serverTarget": "kodehash:server:development"
+              "browserTarget": "snow:build:development",
+              "serverTarget": "snow:server:development"
             }
           },
           "defaultConfiguration": "production"
@@ -243,5 +243,5 @@
       }
     }
   },
-  "defaultProject": "kodehash"
+  "defaultProject": "snow"
 }

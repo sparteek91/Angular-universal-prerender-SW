@@ -10,8 +10,8 @@ export const environment = {
   production: false,
   isServer: false,
   // for prerender
-  host: 'http://localhost:5000',
-  apiBaseUrl: 'https://devbackend.kodehash.com/',
+  host: 'http://localhost:4000',
+  apiBaseUrl: 'https://devbackend.snow.com/',
   apiBaseUrlBlog: 'https://devleadsbe.pingcall.com/',
   // apiBaseUrlBlog: 'https://leadsbe.pingcall.com/',
 };

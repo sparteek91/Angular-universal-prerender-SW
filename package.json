@@ -1,5 +1,5 @@
 {
-  "name": "kodehash",
+  "name": "snow",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -10,11 +10,11 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "dev:ssr": "ng run kodehash:serve-ssr",
+    "dev:ssr": "ng run snow:serve-ssr",
     "serve:ssr": "node dist/server/main.js",
-    "build:ssr": "ng build && ng run kodehash:server",
-    "prerender:prod": "ng run kodehash:prerender --configuration=production && node purge-css.js",
-    "prerender:development": "ng run kodehash:prerender --configuration=development && node purge-css.js",
+    "build:ssr": "ng build && ng run snow:server",
+    "prerender:prod": "ng run snow:prerender --configuration=production && node purge-css.js",
+    "prerender:development": "ng run snow:prerender --configuration=development && node purge-css.js",
     "postbuild:ssr": "node purge-css.js",
     "bundle-report:prod": "ng build --stats-json --prod && webpack-bundle-analyzer dist/browser/stats.json"
   },

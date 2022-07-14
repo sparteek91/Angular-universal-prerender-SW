@@ -11,7 +11,7 @@ export class CanonicalService {
 
 	setCanonicalURL(url?: string): void {
 		// console.log(this.dom.location.pathname)
-		const canURL = url == undefined ? "https://www.kodehash.com" + this.dom.location.pathname : url;
+		const canURL = url == undefined ? "https://www.snow.com" + this.dom.location.pathname : url;
 		// console.log(canURL)
 		const link: HTMLLinkElement = this.dom.createElement('link');
 		link.setAttribute('rel', 'canonical');

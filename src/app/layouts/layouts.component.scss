@@ -46,7 +46,7 @@
                 &.active {
                     color: map-get(map-get($palette, pink), base);
                 }
-                &.btn-kodehash {
+                &.btn-snow {
                     color: map-get(map-get($palette, white), base);
                     font-size: 0.875rem;
                     font-weight: 500 !important;
@@ -282,7 +282,7 @@
         .custom-menu {
             display: flex;
             a.nav-link {
-                &.btn-kodehash {
+                &.btn-snow {
                     color: map-get(map-get($palette, white), base);
                     font-size: 0.875rem;
                     font-weight: 500 !important;
