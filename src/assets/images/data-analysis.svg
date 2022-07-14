@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="255" height="255" viewBox="0 0 255 255">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.396" y1="-0.381" x2="-0.054" y2="1.049" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e32a40"/>
+      <stop offset="0.241" stop-color="#00c4ff"/>
+      <stop offset="0.468" stop-color="#d5aaff"/>
+      <stop offset="0.744" stop-color="#dd3448"/>
+      <stop offset="1" stop-color="#ffe200"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_45537" data-name="Group 45537" transform="translate(-276.5 -1474.5)">
+    <g id="Group_45333" data-name="Group 45333" transform="translate(-135 -30)">
+      <path id="Union_10" data-name="Union 10" d="M-1928-9229h216a19,19,0,0,1,19,19v216a19,19,0,0,1-19,19h-216a19,19,0,0,1-19-19v-216A19,19,0,0,1-1928-9229Z" transform="translate(2359 10734)" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_8903" data-name="Rectangle 8903" width="224" height="224" rx="10" transform="translate(427 1520)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    </g>
+    <text id="Image_Text_and_Data_Analysis" data-name="Image, Text and
+Data Analysis" transform="translate(404 1654)" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-73.863" y="0">Image, Text and</tspan><tspan x="-63.963" y="27">Data Analysis</tspan></text>
+    <g id="Icon_feather-pie-chart" data-name="Icon feather-pie-chart" transform="translate(368.86 1522.076)">
+      <path id="Path_54326" data-name="Path 54326" d="M82.884,58.553A41.583,41.583,0,1,1,27.952,4.245" transform="translate(0 2.206)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      <path id="Path_54327" data-name="Path 54327" d="M59.583,44.583A41.583,41.583,0,0,0,18,3V44.583Z" transform="translate(26.586)" fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    </g>
+  </g>
+</svg>

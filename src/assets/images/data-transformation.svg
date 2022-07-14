@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="255" height="255" viewBox="0 0 255 255">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.396" y1="-0.381" x2="-0.054" y2="1.049" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e32a40"/>
+      <stop offset="0.241" stop-color="#00c4ff"/>
+      <stop offset="0.468" stop-color="#d5aaff"/>
+      <stop offset="0.744" stop-color="#dd3448"/>
+      <stop offset="1" stop-color="#ffe200"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_9695" data-name="Rectangle 9695" width="91.716" height="96.699" fill="none" stroke="#707070" stroke-width="4"/>
+    </clipPath>
+  </defs>
+  <g id="Group_45550" data-name="Group 45550" transform="translate(-971.5 -1474.5)">
+    <g id="Group_45549" data-name="Group 45549">
+      <g id="Group_45335" data-name="Group 45335" transform="translate(1 -30)">
+        <path id="Union_13" data-name="Union 13" d="M-1928-9229h216a19,19,0,0,1,19,19v216a19,19,0,0,1-19,19h-216a19,19,0,0,1-19-19v-216A19,19,0,0,1-1928-9229Z" transform="translate(2918 10734)" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient)"/>
+        <rect id="Rectangle_8909" data-name="Rectangle 8909" width="224" height="224" rx="10" transform="translate(986 1520)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+      </g>
+      <text id="Easy_data_transformation" data-name="Easy data
+transformation" transform="translate(1099 1654)" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-45.945" y="0">Easy Data</tspan><tspan x="-73.062" y="27">Transformation</tspan></text>
+      <g id="Group_45395" data-name="Group 45395" transform="translate(1047.162 1518.301)">
+        <g id="Group_45394" data-name="Group 45394" transform="translate(0 0)" clip-path="url(#clip-path)">
+          <path id="Path_54311" data-name="Path 54311" d="M61.033,49.666l-1.514,9.028h12.96A17.7,17.7,0,0,0,90.19,40.968,17.769,17.769,0,0,0,75.052,23.415a10.9,10.9,0,0,0,.394-3.014A10.7,10.7,0,0,0,64.728,9.682a10.252,10.252,0,0,0-6.615,2.272,22.138,22.138,0,0,0-3.6-4.671A20.684,20.684,0,0,0,39.343,1,20.65,20.65,0,0,0,24.189,7.283a20.632,20.632,0,0,0-6.265,15.153q-.008.421,0,.837A16.987,16.987,0,0,0,6.193,28.45,17.055,17.055,0,0,0,1,40.968,17.088,17.088,0,0,0,6.193,53.5a17.03,17.03,0,0,0,12.06,5.193h.568q.222-.006.443-.015h7.861l1.515-9.061M23.5,40.384V36.548H19.66M23.5,32.712v3.837h3.835M50.378,26.13a9.68,9.68,0,0,1,0,13.7,9.68,9.68,0,0,1-13.7,0,9.68,9.68,0,0,1,0-13.7,9.68,9.68,0,0,1,13.7,0Zm13.338,6.582v3.837h3.837m-3.837,3.835V36.548H59.881m6.6,40.093a5.347,5.347,0,0,0-1.642,3.915,5.61,5.61,0,0,0,5.525,5.525c.117,0,.232-.006.347-.016a5.546,5.546,0,0,0,5.178-5.509,5.487,5.487,0,0,0-5.178-5.51c-.115-.01-.23-.015-.347-.015A5.292,5.292,0,0,0,66.48,76.642ZM39.027,84.188a5.285,5.285,0,0,1,2.984,1.546,5.347,5.347,0,0,1,1.643,3.915,5.61,5.61,0,0,1-5.525,5.525q-.176,0-.349-.015c-.2-.011-.393-.033-.585-.063A5.563,5.563,0,0,1,32.6,89.648a5.484,5.484,0,0,1,5.178-5.509c.115-.01.231-.016.349-.016a6.12,6.12,0,0,1,.9.064l4.3-25.509h-16.2l-2.163,12.88h-9a5.245,5.245,0,0,1-1.642,3.883,5.24,5.24,0,0,1-3.883,1.642c-.116,0-.232-.005-.347-.015a5.31,5.31,0,0,1-3.568-1.627,5.3,5.3,0,0,1-1.61-3.883,5.484,5.484,0,0,1,5.178-5.509c.115-.01.231-.015.347-.015a5.549,5.549,0,0,1,5.525,5.524M44.838,49.649l-1.515,9.029,16.2.015L55.84,80.557h9" transform="translate(0.263 0.262)" fill="none" stroke="#231f20" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1363.158" height="631.319" viewBox="0 0 1363.158 631.319">
+    <g data-name="Group 45969" transform="translate(-278 -5081)">
+        <rect data-name="Rectangle 10005" width="254.979" height="202" rx="22" transform="translate(1129.168 5081)" style="fill:#cef4ff"/>
+        <rect data-name="Rectangle 10006" width="254.979" height="202" rx="22" transform="translate(1129.168 5329)" style="fill:#cef4ff"/>
+        <g data-name="Rectangle 9992" transform="translate(278 5470)" style="stroke:#dc4867;fill:#fff">
+            <rect width="157" height="58" rx="29" style="stroke:none"/>
+            <rect x=".5" y=".5" width="156" height="57" rx="28.5" style="fill:none"/>
+        </g>
+        <g data-name="Rectangle 9993" transform="translate(656.158 5289)" style="stroke:#dc4867;fill:#fff">
+            <rect width="197" height="58" rx="29" style="stroke:none"/>
+            <rect x=".5" y=".5" width="196" height="57" rx="28.5" style="fill:none"/>
+        </g>
+        <g data-name="Rectangle 9996" transform="translate(517 5654.328)" style="stroke:#dc4867;fill:#fff">
+            <rect width="266.344" height="58" rx="29" style="stroke:none"/>
+            <rect x=".5" y=".5" width="265.344" height="57" rx="28.5" style="fill:none"/>
+        </g>
+        <g data-name="Rectangle 9997" transform="translate(843.158 5652)" style="stroke:#dc4867;fill:#fff">
+            <rect width="223.818" height="58" rx="29" style="stroke:none"/>
+            <rect x=".5" y=".5" width="222.818" height="57" rx="28.5" style="fill:none"/>
+        </g>
+        <g data-name="Rectangle 9994" transform="translate(942.158 5171)" style="stroke:#dc4867;fill:#fff">
+            <rect width="127" height="58" rx="29" style="stroke:none"/>
+            <rect x=".5" y=".5" width="126" height="57" rx="28.5" style="fill:none"/>
+        </g>
+        <g data-name="Rectangle 10002" transform="translate(1442.158 5171)" style="stroke:#dc4867;fill:#fff">
+            <rect width="199" height="58" rx="29" style="stroke:none"/>
+            <rect x=".5" y=".5" width="198" height="57" rx="28.5" style="fill:none"/>
+        </g>
+        <g data-name="Rectangle 10003" transform="translate(1442.158 5402)" style="stroke:#dc4867;fill:#fff">
+            <rect width="199" height="58" rx="29" style="stroke:none"/>
+            <rect x=".5" y=".5" width="198" height="57" rx="28.5" style="fill:none"/>
+        </g>
+        <g data-name="Rectangle 9995" transform="translate(942.158 5402)" style="stroke:#dc4867;fill:#fff">
+            <rect width="127" height="58" rx="29" style="stroke:none"/>
+            <rect x=".5" y=".5" width="126" height="57" rx="28.5" style="fill:none"/>
+        </g>
+        <text data-name="Start Point" transform="translate(356 5506)" style="font-family:Poppins-Bold,Poppins;font-weight:700;font-size:18px"><tspan x="-48.375" y="0">Start Point</tspan></text>
+        <text data-name="A/B Testing" transform="translate(755.158 5325)" style="font-family:Poppins-Bold,Poppins;font-weight:700;font-size:18px"><tspan x="-52.029" y="0">A/B Testing</tspan></text>
+        <text data-name="ELSE Default Fallback" transform="translate(650.158 5688)" style="font-family:Poppins-Bold,Poppins;font-weight:700;font-size:18px"><tspan x="-96.372" y="0">ELSE Default Fallback</tspan></text>
+        <text data-name="Bot Response" transform="translate(955.158 5688)" style="font-family:Poppins-Bold,Poppins;font-weight:700;font-size:18px"><tspan x="-61.929" y="0">Bot Response</tspan></text>
+        <text data-name="A 50%" transform="translate(1005.158 5207)" style="font-size:24px;font-family:Poppins-Bold,Poppins;font-weight:700"><tspan x="-29.979" y="0">A </tspan><tspan y="0" style="font-size:18px">50%</tspan></text>
+        <text data-name="Go to Step" transform="translate(1542.158 5207)" style="font-family:Poppins-Bold,Poppins;font-weight:700;font-size:18px"><tspan x="-46.476" y="0">Go to Step</tspan></text>
+        <text data-name="Go to Step" transform="translate(1542.158 5438)" style="font-family:Poppins-Bold,Poppins;font-weight:700;font-size:18px"><tspan x="-46.476" y="0">Go to Step</tspan></text>
+        <text data-name="B 50%" transform="translate(1005.158 5438)" style="font-size:24px;font-family:Poppins-Bold,Poppins;font-weight:700"><tspan x="-29.055" y="0">B </tspan><tspan y="0" style="font-size:18px">50%</tspan></text>
+        <text data-name="Show Order" transform="translate(755.158 5277)" style="font-family:Poppins-Regular,Poppins;font-size:18px"><tspan x="-52.173" y="0">Show Order</tspan></text>
+        <rect data-name="Rectangle 9998" width="209.818" height="58" rx="29" transform="translate(1152.158 5135)" style="fill:#fff"/>
+        <path data-name="Path 54868" d="M29 0h151.818a29 29 0 0 1 0 58H29a29 29 0 0 1 0-58z" transform="translate(1152.158 5204.051)" style="fill:#dc4867"/>
+        <text data-name="Bot Response" transform="translate(1257.158 5171)" style="font-family:Poppins-Bold,Poppins;font-weight:700;font-size:18px"><tspan x="-61.929" y="0">Bot Response</tspan></text>
+        <text data-name="? Questions" transform="translate(1257.158 5240.051)" style="font-size:24px;font-family:Poppins-Bold,Poppins;font-weight:700;fill:#fff"><tspan x="-55.551" y="0">? </tspan><tspan y="0" style="font-size:18px">Questions</tspan></text>
+        <text data-name="Top 5 Products" transform="translate(1257.158 5120)" style="font-family:Poppins-Regular,Poppins;font-size:18px"><tspan x="-66.294" y="0">Top 5 Products</tspan></text>
+        <text data-name="Order Confirmation" transform="translate(1542.158 5156)" style="font-family:Poppins-Regular,Poppins;font-size:18px"><tspan x="-87.435" y="0">Order Confirmation</tspan></text>
+        <text data-name="Order Confirmation" transform="translate(1542.158 5380)" style="font-family:Poppins-Regular,Poppins;font-size:18px"><tspan x="-87.435" y="0">Order Confirmation</tspan></text>
+        <path data-name="Path 54862" d="M27.186 0h155.446c15.014 0 27.186 12.984 27.186 29s-12.172 29-27.186 29H27.186C12.172 58 0 45.016 0 29S12.172 0 27.186 0z" transform="translate(1152.158 5383.475)" style="fill:#fff"/>
+        <rect data-name="Rectangle 10000" width="209.818" height="58" rx="29" transform="translate(1152.158 5452.525)" style="fill:#dc4867"/>
+        <text data-name="Bot Response" transform="translate(1257.158 5419.475)" style="font-family:Poppins-Bold,Poppins;font-weight:700;font-size:18px"><tspan x="-61.929" y="0">Bot Response</tspan></text>
+        <text data-name="? Questions" transform="translate(1257.158 5488.525)" style="font-size:24px;font-family:Poppins-Bold,Poppins;font-weight:700;fill:#fff"><tspan x="-55.551" y="0">? </tspan><tspan y="0" style="font-size:18px">Questions</tspan></text>
+        <text data-name="Our Recommendations" transform="translate(1257.158 5368)" style="font-family:Poppins-Regular,Poppins;font-size:18px"><tspan x="-104.517" y="0">Our Recommendations</tspan></text>
+        <text data-name="Fallback Message" transform="translate(955.158 5636)" style="font-family:Poppins-Regular,Poppins;font-size:18px"><tspan x="-79.632" y="0">Fallback Message</tspan></text>
+        <path data-name="Path 54857" d="M2615.506 14350.5h28.1v-182.869h38.239" transform="translate(-2170.005 -8851)" style="stroke-width:2px;stroke-dasharray:5;fill:none;stroke:#dc4867"/>
+        <path data-name="Path 54859" d="M2615.506 14287.262H2652v-119.631h41.374" transform="translate(-1757.237 -8970.631)" style="stroke-width:2px;stroke-dasharray:5;fill:none;stroke:#dc4867"/>
+        <path data-name="Path 54858" d="M2820.662 14164.633h43.1" transform="translate(-2215.842 -8851)" style="stroke-width:2px;stroke-dasharray:5;fill:none;stroke:#dc4867"/>
+        <path data-name="Path 54867" d="M2820.662 14164.633h43.1" transform="translate(-2029.662 -8483.633)" style="stroke-width:2px;stroke-dasharray:5;fill:none;stroke:#dc4867"/>
+        <path data-name="Path 54860" d="M2820.662 14164.633h43.1" transform="translate(-1742.842 -8967.633)" style="stroke-width:2px;stroke-dasharray:5;fill:none;stroke:#dc4867"/>
+        <path data-name="Path 54861" d="M2820.662 14164.633h43.1" transform="translate(-1432.025 -8967.633)" style="stroke-width:2px;stroke-dasharray:5;fill:none;stroke:#dc4867"/>
+        <path data-name="Path 54863" d="M2615.506 14167.631H2652v119.631h41.374" transform="translate(-1757.237 -8851)" style="stroke-width:2px;stroke-dasharray:5;fill:none;stroke:#dc4867"/>
+        <path data-name="Path 54864" d="M2820.662 14164.633h43.1" transform="translate(-1742.842 -8728.002)" style="stroke-width:2px;stroke-dasharray:5;fill:none;stroke:#dc4867"/>
+        <path data-name="Path 54865" d="M2820.662 14164.633h43.1" transform="translate(-1432.025 -8728.002)" style="stroke-width:2px;stroke-dasharray:5;fill:none;stroke:#dc4867"/>
+        <path data-name="Path 54866" d="M2615.506 14167.631h28.1v182.869h38.239" transform="translate(-2170.005 -8668.131)" style="stroke-width:2px;stroke-dasharray:5;fill:none;stroke:#dc4867"/>
+        <g data-name="Group 45968">
+            <rect data-name="Rectangle 10007" width="61" height="61" rx="14" transform="rotate(45 -6082.713 3309.644)" style="fill:#dc4867"/>
+            <path data-name="Icon feather-message-circle" d="M20.814 12.2A7.6 7.6 0 0 1 20 15.648a7.7 7.7 0 0 1-6.888 4.26 7.6 7.6 0 0 1-3.444-.816l-4.26.816.816-4.26a7.6 7.6 0 0 1-.818-3.448 7.7 7.7 0 0 1 4.26-6.888A7.6 7.6 0 0 1 13.11 4.5h.453a7.686 7.686 0 0 1 7.251 7.251z" transform="translate(558.186 5293.727)" style="fill:#fff"/>
+            <path data-name="Icon material-person" d="M18 18a6 6 0 1 0-6-6 6 6 0 0 0 6 6zm0 3c-4.005 0-12 2.01-12 6v3h24v-3c0-3.99-7.995-6-12-6z" transform="translate(537.686 5295.633)" style="fill:#fff"/>
+        </g>
+    </g>
+</svg>

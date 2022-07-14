@@ -1,0 +1,143 @@
+* {
+	box-sizing: border-box;
+	&:active,
+	&:hover,
+	&:focus {
+		outline: 0;
+	}
+}
+
+html {
+	height: 100%;
+	-ms-text-size-adjust: 100%;
+	-webkit-text-size-adjust: 100%;
+}
+
+body {
+	font-family: $poppin-family;
+	margin: 0;
+	line-height: 1.5;
+	padding: 0;
+	color: map-get(map-get($palette, black), light-1);
+	font-size: map-get($fontSize, small);
+}
+
+h1 {
+	font-size: map-get($fontSize, x-mighty);
+	line-height: 1.5;
+	font-weight: 700;
+}
+
+h2 {
+	font-size: map-get($fontSize, xx-huge);
+	line-height: 1.5;
+	font-weight: 600;
+}
+
+h3 {
+	font-size: map-get($fontSize, huge);
+	line-height: 1.5;
+	font-weight: 600;
+}
+
+h4 {
+	font-size: map-get($fontSize, large);
+	line-height: 1.5;
+	font-weight: 600;
+}
+
+h5 {
+	font-size: map-get($fontSize, regular);
+	line-height: 1.5;
+	font-weight: 600;
+}
+
+h6 {
+	font-size: map-get($fontSize, medium);
+	line-height: 1.5;
+	font-weight: 300;
+}
+
+p {
+	// font-size: map-get($fontSize, regular);
+	font-size: map-get($fontSize, small);
+}
+
+.pointer {
+	cursor: pointer;
+}
+
+.pt-80 {
+	padding-top: 80px;
+}
+
+.pt-200 {
+	padding-top: 200px;
+}
+
+// bg-color
+.bg-gray {
+	background-color: map-get(map-get($palette, gray), light-2);
+}
+
+.bg-purple {
+	background-color: map-get(map-get($palette, purple), base);
+}
+
+// scrollbar
+/* width */
+::-webkit-scrollbar {
+	width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	background: #ccc;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background: #888;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+	background: #555;
+}
+//   -----------------------------------
+
+@media (max-width: 576px) {
+	h1 {
+		font-size: map-get($fontSize, huge);
+	}
+
+	h2 {
+		font-size: map-get($fontSize, xx-large);
+	}
+
+	h3 {
+		font-size: map-get($fontSize, large);
+	}
+
+	h4 {
+		font-size: map-get($fontSize, medium);
+	}
+}
+
+@media (max-width: 1199px) {
+	h1 {
+		font-size: map-get($fontSize, huge);
+	}
+
+	h2 {
+		font-size: map-get($fontSize, xx-large);
+	}
+
+	h3 {
+		font-size: map-get($fontSize, large);
+	}
+
+	h4 {
+		font-size: map-get($fontSize, medium);
+	}
+}

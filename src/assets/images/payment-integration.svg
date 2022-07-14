@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="255" height="255" viewBox="0 0 255 255">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.396" y1="-0.381" x2="-0.054" y2="1.049" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e32a40"/>
+      <stop offset="0.241" stop-color="#00c4ff"/>
+      <stop offset="0.468" stop-color="#d5aaff"/>
+      <stop offset="0.744" stop-color="#dd3448"/>
+      <stop offset="1" stop-color="#ffe200"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_45527" data-name="Group 45527" transform="translate(-970.5 -1504.5)">
+    <g id="Group_45327" data-name="Group 45327">
+      <path id="Union_13" data-name="Union 13" d="M-1928-9229h216a19,19,0,0,1,19,19v216a19,19,0,0,1-19,19h-216a19,19,0,0,1-19-19v-216A19,19,0,0,1-1928-9229Z" transform="translate(2918 10734)" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_8909" data-name="Rectangle 8909" width="224" height="224" rx="10" transform="translate(986 1520)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    </g>
+    <text id="Payment_Integration" data-name="Payment 
+Integration" transform="translate(1099 1692)" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-44.064" y="0">Payment </tspan><tspan x="-52.227" y="27">Integration</tspan></text>
+    <g id="Page-1" transform="translate(1067 1556)">
+      <g id="_003---Mobile-Payment" data-name="003---Mobile-Payment">
+        <path id="Shape" d="M86.167,20.367H56.4V6.267A6.267,6.267,0,0,0,50.133,0H6.267A6.267,6.267,0,0,0,0,6.267V87.733A6.267,6.267,0,0,0,6.267,94H50.133A6.267,6.267,0,0,0,56.4,87.733V67.367H86.167A7.843,7.843,0,0,0,94,59.533V28.2A7.843,7.843,0,0,0,86.167,20.367Zm4.7,7.833V47H47a1.567,1.567,0,0,0,0,3.133H90.867V56.4H28.2V50.133h7.833a1.567,1.567,0,1,0,0-3.133H28.2V28.2a4.7,4.7,0,0,1,4.7-4.7H86.167A4.7,4.7,0,0,1,90.867,28.2ZM40.251,3.133,38.242,5.277a3.146,3.146,0,0,1-2.287.99H20.445a3.133,3.133,0,0,1-2.286-.99L16.151,3.133Zm9.883,87.733H6.267a3.133,3.133,0,0,1-3.133-3.133V85.3a6.2,6.2,0,0,0,3.133.871H50.133a6.2,6.2,0,0,0,3.133-.871v2.438A3.133,3.133,0,0,1,50.133,90.867ZM53.267,79.9a3.133,3.133,0,0,1-3.133,3.133H6.267A3.133,3.133,0,0,1,3.133,79.9V6.267A3.133,3.133,0,0,1,6.267,3.133h5.588l4.019,4.285A6.284,6.284,0,0,0,20.445,9.4h15.51a6.3,6.3,0,0,0,4.573-1.98l4.017-4.286h5.588a3.133,3.133,0,0,1,3.133,3.133v14.1H32.9A7.843,7.843,0,0,0,25.067,28.2v3.133h-4.7a1.567,1.567,0,0,0,0,3.133h4.7V42.3H17.233a1.567,1.567,0,1,0,0,3.133h7.833v7.833h-4.7a1.567,1.567,0,0,0,0,3.133h4.7v3.133A7.843,7.843,0,0,0,32.9,67.367H53.267Zm32.9-15.667H32.9a4.7,4.7,0,0,1-4.7-4.7H90.867A4.7,4.7,0,0,1,86.167,64.233Z"/>
+        <path id="Shape-2" data-name="Shape" d="M8.567,23.133h1.567a1.567,1.567,0,1,0,0-3.133H8.567a1.567,1.567,0,0,0,0,3.133Z" transform="translate(3.967 11.333)"/>
+        <path id="Shape-3" data-name="Shape" d="M10.133,34H8.567a1.567,1.567,0,1,0,0,3.133h1.567a1.567,1.567,0,1,0,0-3.133Z" transform="translate(3.967 19.267)"/>
+        <path id="Shape-4" data-name="Shape" d="M10.267,28.567A1.567,1.567,0,0,0,8.7,27H5.567a1.567,1.567,0,1,0,0,3.133H8.7A1.567,1.567,0,0,0,10.267,28.567Z" transform="translate(2.267 15.3)"/>
+        <path id="Shape-5" data-name="Shape" d="M50.71,26.4a4.67,4.67,0,0,0,3.133-1.222,4.7,4.7,0,1,0,0-6.956A4.7,4.7,0,1,0,50.71,26.4Zm6.267-6.267A1.567,1.567,0,1,1,55.41,21.7,1.567,1.567,0,0,1,56.977,20.133Zm-6.267,0A1.567,1.567,0,1,1,49.144,21.7,1.567,1.567,0,0,1,50.71,20.133Z" transform="translate(26.056 9.633)"/>
+        <path id="Shape-6" data-name="Shape" d="M22.567,24.133h1.567a1.567,1.567,0,1,0,0-3.133H22.567a1.567,1.567,0,1,0,0,3.133Z" transform="translate(11.9 11.9)"/>
+        <path id="Shape-7" data-name="Shape" d="M27.567,24.133h4.7a1.567,1.567,0,1,0,0-3.133h-4.7a1.567,1.567,0,1,0,0,3.133Z" transform="translate(14.733 11.9)"/>
+        <path id="Shape-8" data-name="Shape" d="M39.8,25H22.567a1.567,1.567,0,0,0,0,3.133H39.8A1.567,1.567,0,0,0,39.8,25Z" transform="translate(11.9 14.167)"/>
+      </g>
+    </g>
+  </g>
+</svg>

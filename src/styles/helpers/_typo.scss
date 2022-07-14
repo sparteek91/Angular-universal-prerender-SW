@@ -1,0 +1,15 @@
+@use "../core/variables";
+
+.err {
+	color: map-get(map-get($palette, red), base);
+	font-size: map-get($fontSize, x-small);
+}
+
+.success {
+	color: map-get(map-get($palette, green), base);
+	font-size: map-get($fontSize, x-small);
+}
+
+.caps {
+	text-transform: capitalize;
+}

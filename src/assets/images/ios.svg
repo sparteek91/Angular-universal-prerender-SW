@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="255" height="255" viewBox="0 0 255 255">
+  <defs>
+    <linearGradient id="linear-gradient" x1="1.396" y1="-0.381" x2="-0.054" y2="1.049" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e32a40"/>
+      <stop offset="0.241" stop-color="#00c4ff"/>
+      <stop offset="0.468" stop-color="#d5aaff"/>
+      <stop offset="0.744" stop-color="#dd3448"/>
+      <stop offset="1" stop-color="#ffe200"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_45532" data-name="Group 45532" transform="translate(-1252.5 -1504.5)">
+    <g id="Group_45332" data-name="Group 45332">
+      <path id="Union_12" data-name="Union 12" d="M-1928-9229h216a19,19,0,0,1,19,19v216a19,19,0,0,1-19,19h-216a19,19,0,0,1-19-19v-216A19,19,0,0,1-1928-9229Z" transform="translate(3200 10734)" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient)"/>
+      <rect id="Rectangle_8907" data-name="Rectangle 8907" width="224" height="224" rx="10" transform="translate(1268 1520)" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    </g>
+    <text id="iOS_App_Development" data-name="iOS App
+Development" transform="translate(1377 1695)" font-size="18" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="-35.703" y="0">iOS App</tspan><tspan x="-62.766" y="27">Development</tspan></text>
+    <g id="app" transform="translate(1349.5 1549)">
+      <path id="Path_27148" data-name="Path 27148" d="M59.547,65.58a1.494,1.494,0,0,0,1.494-1.494V6a6.007,6.007,0,0,0-6-6H6.5a6.007,6.007,0,0,0-6,6V96a6.007,6.007,0,0,0,6,6H17.579a1.494,1.494,0,1,0,0-2.988H6.5A3.016,3.016,0,0,1,3.488,96V90.281H58.052V96a3.016,3.016,0,0,1-3.012,3.012H24.086a1.494,1.494,0,1,0,0,2.988H55.04a6.007,6.007,0,0,0,6-6V70.593a1.494,1.494,0,0,0-2.988,0v16.7H3.488V24.272H58.052V64.086A1.494,1.494,0,0,0,59.547,65.58ZM6.5,2.988H55.04A3.016,3.016,0,0,1,58.052,6v5.857H3.488V6A3.016,3.016,0,0,1,6.5,2.988Zm-3.012,18.3V14.847H58.052v6.436Zm0,0"/>
+      <path id="Path_27149" data-name="Path 27149" d="M108.939,32.75h7.57a1.494,1.494,0,0,0,0-2.988h-7.57a1.494,1.494,0,0,0,0,2.988Zm0,0" transform="translate(-85.64 -23.833)"/>
+      <path id="Path_27150" data-name="Path 27150" d="M178.939,32.75h1a1.494,1.494,0,0,0,0-2.988h-1a1.494,1.494,0,0,0,0,2.988Zm0,0" transform="translate(-141.694 -23.833)"/>
+      <path id="Path_27151" data-name="Path 27151" d="M72.049,340.338l2.311,2.311a1.494,1.494,0,0,0,2.113-2.113l-2.311-2.311a1.494,1.494,0,1,0-2.113,2.113Zm0,0" transform="translate(-56.945 -270.494)"/>
+      <path id="Path_27152" data-name="Path 27152" d="M77.523,156.006a1.494,1.494,0,0,0,1.494-1.494v-8a1.494,1.494,0,0,0-1.494-1.494H31.877a1.494,1.494,0,0,0-1.494,1.494V192.16a1.5,1.5,0,0,0,1.494,1.494H77.523a1.5,1.5,0,0,0,1.494-1.494V161.019a1.494,1.494,0,0,0-2.988,0v29.647h-2a8.977,8.977,0,0,0-8.87-10.381,8.918,8.918,0,0,0-6.632,2.921L56,180.681a3.047,3.047,0,0,0-4.3,0l-3.952,3.952-6.374-6.373a3.043,3.043,0,0,0-4.3,0l-3.695,3.695V148.008H76.029v6.5A1.494,1.494,0,0,0,77.523,156.006ZM65.155,183.273a6,6,0,0,1,5.828,7.392h-5l-5.342-5.342A5.952,5.952,0,0,1,65.155,183.273Zm-25.976-2.9a.05.05,0,0,1,.039-.016.047.047,0,0,1,.038.016l7.43,7.43a1.5,1.5,0,0,0,2.114,0l5.008-5.008a.054.054,0,0,1,.078,0l7.871,7.871H33.371V186.18Zm0,0" transform="translate(-23.93 -116.129)"/>
+      <path id="Path_27153" data-name="Path 27153" d="M139.416,200.938a1.494,1.494,0,0,0,0-2.988h-4.652a1.494,1.494,0,0,0,0,2.988Zm0,0" transform="translate(-106.319 -158.514)"/>
+      <path id="Path_27154" data-name="Path 27154" d="M110.863,218.9a1.494,1.494,0,0,0,1.494,1.494h13.58a1.494,1.494,0,0,0,0-2.988h-13.58A1.494,1.494,0,0,0,110.863,218.9Zm0,0" transform="translate(-88.377 -174.092)"/>
+      <path id="Path_27155" data-name="Path 27155" d="M31.877,397.8a1.495,1.495,0,0,0,0,2.989h1.506a1.495,1.495,0,0,0,0-2.989Zm0,0" transform="translate(-23.93 -318.555)"/>
+      <path id="Path_27156" data-name="Path 27156" d="M61.936,397.8a1.495,1.495,0,1,0,0,2.989h1.506a1.495,1.495,0,0,0,0-2.989Zm0,0" transform="translate(-48 -318.555)"/>
+      <path id="Path_27157" data-name="Path 27157" d="M92,397.8a1.495,1.495,0,0,0,0,2.989H93.5a1.495,1.495,0,0,0,0-2.989Zm0,0" transform="translate(-72.073 -318.555)"/>
+      <path id="Path_27158" data-name="Path 27158" d="M238.93,397.8h-5.491a1.495,1.495,0,0,0,0,2.989h5.491a1.495,1.495,0,0,0,0-2.989Zm0,0" transform="translate(-185.337 -318.555)"/>
+      <path id="Path_27159" data-name="Path 27159" d="M36.875,83.184h-5a1.494,1.494,0,0,0,0,2.988h5a1.494,1.494,0,1,0,0-2.988Zm0,0" transform="translate(-23.93 -66.612)"/>
+    </g>
+  </g>
+</svg>

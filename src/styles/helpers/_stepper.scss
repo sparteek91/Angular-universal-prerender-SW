@@ -1,0 +1,160 @@
+// // stepper horizontal
+// .stepper-wrapper {
+//     margin-top: auto;
+//     display: flex;
+//     justify-content: space-between;
+//     margin-bottom: 20px;
+
+//     .stepper-item {
+//         position: relative;
+//         display: flex;
+//         flex-direction: column;
+//         align-items: center;
+//         flex: 1;
+
+//         // @media (max-width: 768px) {
+//         //     font-size: 12px;
+//         // }
+
+//         &::before {
+//             position: absolute;
+//             content: "";
+//             border-bottom: 2px solid #ccc;
+//             width: 100%;
+//             top: 30px;
+//             left: -50%;
+//             z-index: 2;
+//         }
+
+//         &::after {
+//             position: absolute;
+//             content: "";
+//             border-bottom: 2px solid #ccc;
+//             width: 100%;
+//             top: 30px;
+//             left: 50%;
+//             z-index: 2;
+//         }
+
+//         .step-counter {
+//             position: relative;
+//             z-index: 5;
+//             display: flex;
+//             justify-content: center;
+//             align-items: center;
+//             width: 60px;
+//             height: 60px;
+//             border-radius: 50%;
+//             background: #ccc;
+//             margin-bottom: 6px;
+//         }
+
+//         .step-description {
+//             font-size: 0.875rem;
+//         }
+
+//         &.active {
+//             font-weight: bold;
+//         }
+
+//         &.completed {
+//             .step-counter {
+//                 color: map-get(map-get($palette, white), base);
+//                 background-color: map-get(map-get($palette, red), base);
+//             }
+
+//             &::after {
+//                 position: absolute;
+//                 content: "";
+//                 border-bottom: 2px solid map-get(map-get($palette, red), base);
+//                 width: 100%;
+//                 top: 30px;
+//                 left: 50%;
+//                 z-index: 3;
+//             }
+//         }
+
+//         &:first-child::before,
+//         &:last-child::after {
+//             content: none;
+//         }
+//     }
+// }
+// // -----------------------------------------------------------------
+
+// // stepper vertical
+// .step {
+//     padding: 25px 10px;
+//     display: flex;
+//     flex-direction: row;
+//     justify-content: flex-start;
+
+//     .v-stepper {
+//         position: relative;
+
+//         .circle {
+//             background-color: white;
+//             border: 2px solid gray;
+//             border-radius: 100%;
+//             width: 60px; /* +6 for border */
+//             height: 60px;
+//             display: flex;
+//             justify-content: center;
+//             align-items: center;
+//             color: map-get(map-get($palette, white), base);
+//         }
+
+//         .line {
+//             top: 59px;
+//             left: 28px;
+//             height: 100%;
+//             position: absolute;
+//             border-left: 2px solid gray;
+//         }
+//     }
+
+//     &.completed {
+//         .circle {
+//             visibility: visible;
+//             background-color: map-get(map-get($palette, red), base);
+//             border-color: map-get(map-get($palette, red), base);
+//         }
+
+//         .line {
+//             border-left: 2px solid map-get(map-get($palette, red), base);
+//         }
+//     }
+
+//     &.active {
+//         .circle {
+//             visibility: visible;
+//             border-color: map-get(map-get($palette, red), base);
+//         }
+//     }
+
+//     &.empty {
+//         .circle {
+//             visibility: hidden;
+//         }
+
+//         .line {
+//             /*     visibility: hidden; */
+//             /*   height: 150%; */
+//             top: 0;
+//             height: 150%;
+//         }
+//     }
+
+//     &:last-child {
+//         .line {
+//             border-left: 2px solid white;
+//             z-index: -1; /* behind the circle to completely hide */
+//         }
+//     }
+
+//     .content {
+//         margin-left: 20px;
+//         display: inline-block;
+//     }
+// }
+// // -----------------------------------------------------------------
